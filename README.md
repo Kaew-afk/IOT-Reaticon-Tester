@@ -1,2 +1,2 @@
-# IOT-Reaticon-Tester
+# IOT-Reaction-Tester
 เครื่องทดสอบปฏิกิริยาการตอบสนอง มือและเท้า
